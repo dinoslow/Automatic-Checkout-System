@@ -31,3 +31,19 @@ We use a **[self-labeded bread data](https://drive.google.com/file/d/1WqACSIUyiV
 |-|-|
 |![](./demo/image1.jpg)|![](./demo/image3.jpg)|
 |![](./demo/image2.jpg)|![](./demo/image4.jpg)|
+
+## Data
+Our **[self-labeded bread data](https://drive.google.com/file/d/1WqACSIUyiVGtW89GkAsSmXuvE4T4sLqE/view?usp=sharing)** contains 11 types of bread.
+- donat (甜甜圈)
+- grape (葡萄乾麵包)
+- square (大理石磚麵包)
+- strawberry (草莓麵包)
+- pudding (布丁麵包)
+- meat floss (肉鬆麵包)
+- pizza (披薩麵包)
+- matcha (抹茶麵包)
+- sugar (糖霜麵包)
+- strawberry donat (草莓甜甜圈)
+- black eye (黑岩豆豆麵包)
+
+According to the requirements of YOLOv8, the data were divided into three sets: train, valid, and test.
