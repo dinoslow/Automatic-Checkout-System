@@ -18,7 +18,7 @@ output_dir = "./output"
 output_txt_path = "./output_text/output.txt"
 os.makedirs(output_dir, exist_ok=True)
 
-# IP Webcam 地址，替換成你手機的 IP 地址
+# TODO: IP Webcam 地址，替換成你手機的 IP 地址
 ip_webcam_url = "http://your_ip:8080/video"
 first_detection = False
 detection_time = None
